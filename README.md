@@ -54,6 +54,8 @@ Future Improvements
 ________________________________________
 Screenshots
  <img width="940" height="526" alt="image" src="https://github.com/user-attachments/assets/4359d712-5c53-48ae-a369-3d8c650ba13e" />
+<img width="1918" height="866" alt="Azure Pipeline" src="https://github.com/user-attachments/assets/9aef2b03-8196-467c-9f4b-120954ac977b" />
+
 
 ________________________________________
 Author
